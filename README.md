@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owenthe10x
+- 👋 Hi, I’m Owen Tobias Sinurat
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning front-end engineering
 - 💞️ I’m looking to learn from an experienced developer
